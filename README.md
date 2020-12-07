@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello my name is Thobias, I am FullStack Web Developer.
-  Also, I am studying a lot of mobile development with Flutter.
+  Also, I am studying a lot of mobile development.
 </p>
 
 <p align="left">
