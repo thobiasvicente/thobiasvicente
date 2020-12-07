@@ -1,20 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=thobiasvicente&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
-### Hello my name is Thobias, I am FullStack Web Developer.
-Also,I am studying a lot of mobile development.
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
-
-<p>
-
-Estudando/trabalhando na **nome do lugar**<br/>
-
-Eu sou desenvolvedor **sua área**.
-
-
-</p>
-<hr>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador thobiasvicente">
 
 <p align="left"> 
   Hello my name is Thobias, I am FullStack Web Developer.
