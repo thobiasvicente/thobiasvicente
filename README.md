@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Php(laravel) and JavaScript(vuejs).</strong>
+  🦄 Skills: <strong>Php ( laravel ) and JavaScript ( vuejs ).</strong>
 </p>
 
 <p align="left">
