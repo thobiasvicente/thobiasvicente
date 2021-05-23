@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Php, Laravel, JavaScript, Vue and React.</strong>
+  🦄 Skills: <strong>PHP, Laravel, JavaScript, Vue and React.</strong>
 </p>
 
 <p align="left">
