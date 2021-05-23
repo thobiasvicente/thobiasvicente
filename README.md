@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Php, Laravel, JavaScript, Vue.js and Quasar.</strong>
+  🦄 Skills: <strong>Php, Laravel, JavaScript, Vue and React.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, PhpStorm, Figma, Git and GitHub.</strong>
+  💼 Tools: <strong>Visual Studio Code, Figma, Git and GitHub.</strong>
 </p>
 
 <p align="left">
