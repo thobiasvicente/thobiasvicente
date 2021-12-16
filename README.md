@@ -2,7 +2,6 @@
 
 <p align="left"> 
   Hello my name is Thobias, I am FullStack Web Developer and Mobile.
-  Also, I am studying a lot of mobile development.
 </p>
 
 <p align="left">
