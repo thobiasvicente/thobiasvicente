@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador thobiasvicente">
 
 <p align="left"> 
-  Hello my name is Thobias, I am FullStack Web Developer.
+  Hello my name is Thobias, I am FullStack Web Developer and Mobile.
   Also, I am studying a lot of mobile development.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>PHP, Laravel, JavaScript, Vue and React.</strong>
+  🦄 Skills: <strong>Laravel, VueJS, React, React Native, Flutter, Adonis.</strong>
 </p>
 
 <p align="left">
