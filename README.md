@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Laravel, Adonis, VueJS, React, React Native and Flutter.</strong>
+  🦄 Skills: <strong>Laravel, Adonis, VueJS, React, NextJS, React Native and Flutter.</strong>
 </p>
 
 <p align="left">
