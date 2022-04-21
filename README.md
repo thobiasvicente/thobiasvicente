@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador thobiasvicente">
 
 <p align="left"> 
-  Hello my name is Thobias, I am FullStack Web Developer and Mobile.
+  FullStack web and mobile developer.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Laravel, Adonis, VueJS, React, NextJS, React Native and Flutter.</strong>
+  🦄 Skills: <strong>Laravel, Adonis, Next.js, React, Vue, React Native and Flutter.</strong>
 </p>
 
 <p align="left">
