@@ -1,19 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador thobiasvicente">
 
 <p align="left"> 
-  FullStack web and mobile developer.
+  FullStack web developer.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Laravel, Adonis, Next.js, React, Vue, React Native and Flutter.</strong>
+  Skills: <strong>Laravel, Next.js and React.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Figma, Git and GitHub.</strong>
-</p>
-
-<p align="left">
- 💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
+ If you want to contact me: ⤵️
 </p>
 
 <p align="left">
