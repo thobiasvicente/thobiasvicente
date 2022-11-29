@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  Skills: <strong>Laravel, Next.js and React.</strong>
+  Main skills: <strong>Laravel and Next.js.</strong>
 </p>
 
 <p align="left">
