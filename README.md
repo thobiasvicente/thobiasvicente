@@ -1,7 +1,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=thobiasvicente&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/thobiasvicente"
-  width="100%"
+  width="1000"
   height="300"
 />
 </a>
